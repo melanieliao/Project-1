@@ -15,7 +15,7 @@ What is the distribution of housing prices in high-poverty vs. low-poverty areas
 How do median house prices and poverty rates compare across urban and rural areas in the USA?
 
 
-#Conclusion
+# Conclusion
 
 The analysis underscores the complex relationships between median house prices, household income, employment rates, education levels, and poverty rates:
 
